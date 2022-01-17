@@ -2,7 +2,7 @@
 
 ## Build Setup
 
-```bash
+```bash DUH
 # install dependencies
 $ npm install
 
