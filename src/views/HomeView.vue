@@ -1,9 +1,10 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import Mommy from '../components//Mommy.vue'
+
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Mommy />
   </main>
 </template>
